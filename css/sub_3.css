@@ -81,7 +81,7 @@ font-family: 'IBMPlexSansKR-Light'}
       }
       
     #top {width:1150px; height:650px; margin:0 auto;
-        background:url("img/top.jpg") no-repeat center/cover;
+        background:url("../img/top.jpg") no-repeat center/cover;
         position:relative; animation-name:slider; animation-delay:0s; animation-duration:5s; 
         animation-timing-function:linear; animation-fill-mode:forwards;}
 
@@ -92,7 +92,7 @@ font-family: 'IBMPlexSansKR-Light'}
 
 
     #middle {width:1150px; height:1500px; margin:30px auto;
-        background:url("img/middle.jpg") no-repeat center/cover;
+        background:url("../img/middle.jpg") no-repeat center/cover;
         display:flex; justify-content: center; flex-direction: column;}
 
     .top7 {width:900px; height:1000px; margin:10px auto 20px; }
@@ -120,7 +120,7 @@ font-family: 'IBMPlexSansKR-Light'}
     .infotext>p:nth-of-type(2) {font-size:15px; margin:10px 0;}
 
     #bottom {width:1150px; height:2200px; margin:0 auto;
-        background:url("img/bottom.jpg") no-repeat center/cover;
+        background:url("../img/bottom.jpg") no-repeat center/cover;
         display:flex; justify-content:center; flex-wrap:wrap;}
     
     #bottom h1 {width:1150px; height:150px; text-align:center; font-family:'IBMPlexSansKR-Bold'; margin-top:40%; font-size:6em;
